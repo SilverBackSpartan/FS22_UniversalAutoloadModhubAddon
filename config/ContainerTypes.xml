@@ -192,47 +192,47 @@
         <containerConfiguration name="FS22_Holmakra:pallet2dry" containerType="EURO_PALLET" sizeX="4.85" sizeY="0.85" sizeZ="1.15"/>
         <containerConfiguration name="FS22_Holmakra:pallet3dry" containerType="EURO_PALLET" sizeX="4.85" sizeY="0.85" sizeZ="1.15"/>
 
-	<!--  GPE BIGBAGS-->
-		<containerConfiguration name="FS22_GameplayExtension:bigBag" containerType="BIGBAG" sizeX="1.25" sizeZ="1.25" sizeY="1.75"/>
-		<containerConfiguration name="FS22_GameplayExtension:bigBag_Gravel" containerType="BIGBAG" sizeX="4" sizeZ="4"/>
-		<containerConfiguration name="FS22_GameplayExtension:bigBag_Sand" containerType="BIGBAG" sizeX="1.25" sizeZ="1.25" sizeY="1.75"/>
-		<containerConfiguration name="FS22_GameplayExtension:bigBag_VegetalDirt" containerType="BIGBAG" sizeX="1.25" sizeZ="1.25" sizeY="1.75"/>
-		<!--  GPE MULTIPURCHASE BIGBAGS-->
-		<containerConfiguration name="FS22_GameplayExtension:multiPurchaseBigBag_Gravel" containerType="BIGBAG" sizeX="4" sizeZ="4"/>
-		<containerConfiguration name="FS22_GameplayExtension:multiPurchaseBigBag_Sand" containerType="BIGBAG" sizeX="4" sizeZ="4"/>
-		<containerConfiguration name="FS22_GameplayExtension:multiPurchaseBigBag_VegetalDirt" containerType="BIGBAG" sizeX="4" sizeZ="4"/>
-		<!-- GPE SEA WATER-->
-		<containerConfiguration name="FS22_GameplayExtension:Emulsion" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
-		<!--  GPE PALLETS-->
-		<containerConfiguration name="FS22_GameplayExtension:PalleteCement" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
-		<containerConfiguration name="FS22_GameplayExtension:PalleteCoal" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
-		<!--  GPE ROCKS-->
-		<containerConfiguration name="FS22_GameplayExtension:Rock3" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
-		<containerConfiguration name="FS22_GameplayExtension:Rock4" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
-		<containerConfiguration name="FS22_GameplayExtension:Rock5" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
-		<containerConfiguration name="FS22_GameplayExtension:Rock6" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
-		<containerConfiguration name="FS22_GameplayExtension:Rock7" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
-		<containerConfiguration name="FS22_GameplayExtension:Rock8" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
-		<containerConfiguration name="FS22_GameplayExtension:Rock9" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
-		<!--  GPE PIPES-->
-		<containerConfiguration name="FS22_GameplayExtension:Pipe125" containerType="EURO_PALLET" sizeX="3" sizeZ="0.5"/>
-		<containerConfiguration name="FS22_GameplayExtension:Pipe125Corner45" containerType="EURO_PALLET" sizeX="0.5" sizeZ="0.5"/>
-		<containerConfiguration name="FS22_GameplayExtension:Pipe125Corner90" containerType="EURO_PALLET" sizeX="0.5" sizeZ="0.5"/>
-		<containerConfiguration name="FS22_GameplayExtension:Pipe125Manchon" containerType="EURO_PALLET" sizeX="0.5" sizeZ="0.5"/>
-		<containerConfiguration name="FS22_GameplayExtension:Pipe125T" containerType="EURO_PALLET" sizeX="0.5" sizeZ="0.5"/>
-		<!--  GPE BORDURES-->
-		<containerConfiguration name="FS22_GameplayExtension:BordureA1" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
-		<containerConfiguration name="FS22_GameplayExtension:BordureA2" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
-		<containerConfiguration name="FS22_GameplayExtension:BordureCC1" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
-		<containerConfiguration name="FS22_GameplayExtension:BordureCC2" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
-		<containerConfiguration name="FS22_GameplayExtension:BordureL1" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
-		<containerConfiguration name="FS22_GameplayExtension:BordureL2" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
-		<containerConfiguration name="FS22_GameplayExtension:BordureP1" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
-		<containerConfiguration name="FS22_GameplayExtension:BordureP2" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
-		<containerConfiguration name="FS22_GameplayExtension:BordureP3" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
-		<containerConfiguration name="FS22_GameplayExtension:BordureT1" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
-		<containerConfiguration name="FS22_GameplayExtension:BordureT2" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
-		<containerConfiguration name="FS22_GameplayExtension:BordureT3" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
+	<!--GPE BIGBAGS-->
+	<containerConfiguration name="FS22_GameplayExtension:bigBag" containerType="BIGBAG" sizeX="1.25" sizeZ="1.25" sizeY="1.75"/>
+	<containerConfiguration name="FS22_GameplayExtension:bigBag_Gravel" containerType="BIGBAG" sizeX="4" sizeZ="4"/>
+	<containerConfiguration name="FS22_GameplayExtension:bigBag_Sand" containerType="BIGBAG" sizeX="1.25" sizeZ="1.25" sizeY="1.75"/>
+	<containerConfiguration name="FS22_GameplayExtension:bigBag_VegetalDirt" containerType="BIGBAG" sizeX="1.25" sizeZ="1.25" sizeY="1.75"/>
+	<!--GPE MULTIPURCHASE BIGBAGS-->
+	<containerConfiguration name="FS22_GameplayExtension:multiPurchaseBigBag_Gravel" containerType="BIGBAG" sizeX="4" sizeZ="4"/>
+	<containerConfiguration name="FS22_GameplayExtension:multiPurchaseBigBag_Sand" containerType="BIGBAG" sizeX="4" sizeZ="4"/>
+	<containerConfiguration name="FS22_GameplayExtension:multiPurchaseBigBag_VegetalDirt" containerType="BIGBAG" sizeX="4" sizeZ="4"/>
+	<!--GPE SEA WATER-->
+	<containerConfiguration name="FS22_GameplayExtension:Emulsion" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
+	<!--GPE PALLETS-->
+	<containerConfiguration name="FS22_GameplayExtension:PalleteCement" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
+	<containerConfiguration name="FS22_GameplayExtension:PalleteCoal" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
+	<!--GPE ROCKS-->
+	<containerConfiguration name="FS22_GameplayExtension:Rock3" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
+	<containerConfiguration name="FS22_GameplayExtension:Rock4" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
+	<containerConfiguration name="FS22_GameplayExtension:Rock5" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
+	<containerConfiguration name="FS22_GameplayExtension:Rock6" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
+	<containerConfiguration name="FS22_GameplayExtension:Rock7" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
+	<containerConfiguration name="FS22_GameplayExtension:Rock8" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
+	<containerConfiguration name="FS22_GameplayExtension:Rock9" containerType="EURO_PALLET" sizeX="1.6" sizeZ="1.2" sizeY="1.1"/>
+	<!--GPE PIPES-->
+	<containerConfiguration name="FS22_GameplayExtension:Pipe125" containerType="EURO_PALLET" sizeX="3" sizeZ="0.5"/>
+	<containerConfiguration name="FS22_GameplayExtension:Pipe125Corner45" containerType="EURO_PALLET" sizeX="0.5" sizeZ="0.5"/>
+	<containerConfiguration name="FS22_GameplayExtension:Pipe125Corner90" containerType="EURO_PALLET" sizeX="0.5" sizeZ="0.5"/>
+	<containerConfiguration name="FS22_GameplayExtension:Pipe125Manchon" containerType="EURO_PALLET" sizeX="0.5" sizeZ="0.5"/>
+	<containerConfiguration name="FS22_GameplayExtension:Pipe125T" containerType="EURO_PALLET" sizeX="0.5" sizeZ="0.5"/>
+	<!--GPE BORDURES-->
+	<containerConfiguration name="FS22_GameplayExtension:BordureA1" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
+	<containerConfiguration name="FS22_GameplayExtension:BordureA2" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
+	<containerConfiguration name="FS22_GameplayExtension:BordureCC1" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
+	<containerConfiguration name="FS22_GameplayExtension:BordureCC2" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
+	<containerConfiguration name="FS22_GameplayExtension:BordureL1" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
+	<containerConfiguration name="FS22_GameplayExtension:BordureL2" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
+	<containerConfiguration name="FS22_GameplayExtension:BordureP1" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
+	<containerConfiguration name="FS22_GameplayExtension:BordureP2" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
+	<containerConfiguration name="FS22_GameplayExtension:BordureP3" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
+	<containerConfiguration name="FS22_GameplayExtension:BordureT1" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
+	<containerConfiguration name="FS22_GameplayExtension:BordureT2" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
+	<containerConfiguration name="FS22_GameplayExtension:BordureT3" containerType="EURO_PALLET" sizeX="2" sizeZ="2"/>
 	    
     </containerConfigurations>
 </universalAutoLoad>
